@@ -12,10 +12,10 @@ Base de données :
 -----------------------------------------------------------------------------------------------------------------------
 Développement :
 Menu: 
-![image](https://github.com/ouissalhadid2001/JSF_Projet/assets/127057734/ae4eae20-ad25-4ff4-bd6d-cddfcf21ae2c)
+![image](https://github.com/ouissalhadid2001/JSF_Projet/assets/127057734/c18f75f8-f76b-48f7-a0f9-05348e8b50b8)
 
 Gestion des services :
-![image](https://github.com/ouissalhadid2001/JSF_Projet/assets/127057734/1bfa0326-262b-47ac-85d5-8d1fde913ba7)
+![image](https://github.com/ouissalhadid2001/JSF_Projet/assets/127057734/6ec620f7-9bec-4b62-a398-d7e9b1214b76)
 
 
 
